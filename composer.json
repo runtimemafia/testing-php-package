@@ -1,0 +1,7 @@
+{
+    "name": "yassh.in/test-php-package",
+    "description": "A short description of my PHP package",
+    "require": {
+        "php": ">=8.2"
+    }
+}
